@@ -45,3 +45,46 @@
 > 1. **Age is a significant factor in insurance charges, likely due to increased health risks with age.**
 > 2. **BMI has a slight impact on charges, but the relationship is not strong.**
 > 3. **The number of children does not have a significant impact on charges.**
+
+5- **BMI vs. Charges by Smoking Status**
+![image](https://github.com/itsahmedmohamedamin/Predicting-Insurance-Premiums/assets/50253297/cdd436a1-d65a-483e-a338-32f5b66e89ff)
+
+## Conclustions from the above graph:
+> 1. **Smoking status significantly affects insurance charges, with smokers incurring higher costs.**
+> 2. **This impact is consistent across different BMI levels, highlighting smoking as a major risk factor.**
+
+6- **Charges by Sex and Smoking Status**
+![image](https://github.com/itsahmedmohamedamin/Predicting-Insurance-Premiums/assets/50253297/27edd0ee-11df-42b6-aac6-3483557bff7b)
+
+## Conclustions from the above graph:
+> 1. **Both male and female smokers have higher insurance charges compared to their non-smoking counterparts.**
+> 2. **The distribution of charges is broader for smokers, indicating more variability and potentially higher health risks.**
+
+7- **Pair Plot by Smoking Status**
+![image](https://github.com/itsahmedmohamedamin/Predicting-Insurance-Premiums/assets/50253297/b42e26ce-4498-4b3b-81f1-b72b444c5554)
+
+## Conclustions from the above graph:
+> 1. **The relationships between variables differ for smokers and non-smokers.**
+> 2. **Charges increase with age and BMI more sharply for smokers, reinforcing the impact of smoking on health costs.**
+
+8- **Charges by Region**
+![image](https://github.com/itsahmedmohamedamin/Predicting-Insurance-Premiums/assets/50253297/b9a8119d-dd44-4552-8269-5191ea2b5c46)
+
+## Conclustions from the above graph:
+> 1. **Regional differences in charges suggest varying healthcare costs or health risks across regions.**
+> 2. **Southeast stands out with higher charges, possibly indicating higher healthcare utilization or costs in that region.**
+
+9- **Distribution of Charges by Region**
+![image](https://github.com/itsahmedmohamedamin/Predicting-Insurance-Premiums/assets/50253297/1c60c570-85e0-4661-95f9-419fc67003a9)
+
+## Conclustions from the above graph:
+> 1. **The right-skewed distribution in all regions indicates that while most individuals have lower charges, a few have significantly higher costs.**
+> 2. **Southeast has a noticeable peak in higher charge ranges, reinforcing the box plot findings.**
+
+10- **Distribution of Children by Region**
+![image](https://github.com/itsahmedmohamedamin/Predicting-Insurance-Premiums/assets/50253297/dd3e6ae1-1e16-4609-9357-7a7dbd7f1691)
+
+## Conclustions from the above graph:
+> 1. **The distribution is consistent across regions, with a majority having no or one child.**
+> 2. **There is no significant regional difference in the number of children, indicating similar family sizes across regions.**
+
