@@ -1,6 +1,6 @@
 # Predicting Insurance Premiums
 
-## Below is a comprehensive data analysis for individuals from the four regions of the United States, examining their characteristics including number of children, BMI, age, sex, smoking status, and insurance charges. This analysis is followed by the application of a Machine Learning Random Forest Regressor algorithm, incorporating feature engineering to enhance predictive performance.
+## Below is a comprehensive data analysis for individuals from the four regions of the United States, examining their characteristics including number of children, BMI, age, sex, smoking status, and insurance charges. This analysis is followed by the application of a Machine Learning Random Forest Regressor algorithm, incorporating feature engineering to enhance predictive performance of charges with accuracy 88%.
 
 1- **Correlation Heatmap for Numerical Features**
 ![image](https://github.com/itsahmedmohamedamin/Predicting-Insurance-Premiums/assets/50253297/60c2f101-bcc7-44bd-9fe3-b70db6399730)
